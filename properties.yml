@@ -1,4 +1,4 @@
 togglz:
         features:
                 REALTIME:
-                        enabled: true
+                        enabled: false
